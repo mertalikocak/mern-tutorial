@@ -2,6 +2,9 @@
   "name": "mern-tutorial",
   "version": "1.0.0",
   "description": "Goalsetter app",
+  "engines": {
+    "node": "v17.3.0"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
